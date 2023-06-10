@@ -1,10 +1,21 @@
-Chrome Extension to show the latest data on covid of UK
-=======
-![covid_report](https://user-images.githubusercontent.com/11813341/152206544-8e629f40-bf26-4623-8a75-9621183fd0b5.gif)
+# Imperial to Metric Converter Chrome Extension
 
-# Tools used #
-* HTML, CSS and JavaScript
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+The Imperial to Metric Converter Chrome Extension is a lightweight tool that allows engineers to quickly convert imperial measurements to metric units. This extension provides on-hover conversion functionality, enabling engineers to conveniently view the metric equivalents of imperial values while working on webpages.
 
+## Features
 
-Author [Sampurna Chapagain](https://twitter.com/saam_codes)
+- Hover over an imperial value to instantly see its metric conversion.
+- Supports various imperial measurements such as inches, feet, pounds, etc.
+- Displays the conversion formula used to calculate the metric value.
+- Provides approximate metric conversions for increased accuracy.
+
+## Usage
+
+Once the extension is installed, simply navigate to any webpage in Google Chrome and hover over any imperial value (e.g., 1 inch, 10 pounds) to see its corresponding metric conversion. The conversion will be displayed in a tooltip, along with the conversion formula used.
+
+---
+
+We hope you find the Imperial to Metric Converter Chrome Extension useful for your engineering tasks. If you have any questions or need further assistance, please don't hesitate to reach out.
+
+Happy converting!
+
