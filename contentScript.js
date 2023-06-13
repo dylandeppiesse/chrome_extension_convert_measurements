@@ -15,8 +15,8 @@ function convertOnHover(event) {
 }
 
 // Function to convert imperial measurements to metric
+// US Gallons per Minute -> Litres per Hour
+// 1 US Gallon = 3.785411784 Litres
 function convertToMetric(imperialValue) {
-  // Perform the necessary conversion calculations here
-  // For example, you can convert inches to centimeters, pounds to kilograms, etc.
-  // Return the converted metric value
+  imperialValue*3.785411784*60
 }
